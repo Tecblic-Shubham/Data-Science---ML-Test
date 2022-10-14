@@ -37,8 +37,8 @@ from tensorflow.keras.regularizers import l2
 
 # LOAD DATA
 data = cms_procedures.get_data()
-cat_col = pd.read_csv('cat_col.csv')['0'].tolist()
-num_col = pd.read_csv('num_col.csv')['0'].tolist()
+cat_col = pd.read_csv('./dataset/cat_col.csv')['0'].tolist()
+num_col = pd.read_csv('./dataset/num_col.csv')['0'].tolist()
 
 # Preprocess data
 preprocess_pipeline = ColumnTransformer(transformers=
