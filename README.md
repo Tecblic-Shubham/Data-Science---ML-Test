@@ -28,9 +28,12 @@ The EDA part is as follows.
   ```bash
   data.shape #Shape will fetch the tuple of dataframe
   ```
-  3. ```bash
+  ---
+  
+  ```bash
     data.info() # information about the DataFrame
     ```
+   --- 
    4. Checking % of missing values
       4.1 The data set have ~3.7% missing values.
    5. Dropping the Columns using drop
@@ -64,9 +67,12 @@ Train File consists Data Loading , Preporcessing and the model code.
   14. MLP - Multi Layer Perceptron 
   15. Deep Learning squential Model with custom layers
 
+### Inferencing using predict, pass procedure id and will give the answers in terms of success and failure.
 ```bash
 python predict.py --p_id <givetheprocedureidformdatahere>
 ```` 
+
+### Custom Library as per problem description
 ```bash
 cms_procedures.py
 ```
