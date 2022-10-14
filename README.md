@@ -42,3 +42,37 @@ The EDA part is as follows.
    9. Preparing two lists and saving them as csv files for modeling.
 
 
+```bash
+python train.py
+```
+Train File consists Data Loading , Preporcessing and the model code.
+
+### Models used
+  1. Logistic Regression
+  2. RandomForest
+  3. ExtraTrees
+  4. AdaBoost
+  5. GradientBoosting
+  6. Votingr
+  7. Dummy
+  8. Bagging
+  9. XGBoost
+  10. LinearSVC
+  11. SVC
+  12. KNeighbors
+  13. DecisionTree
+  14. MLP - Multi Layer Perceptron 
+  15. Deep Learning squential Model with custom layers
+
+```bash
+python predict.py --p_id <givetheprocedureidformdatahere>
+```` 
+```bash
+cms_procedures.py
+```
+This file will contain custom libaray as asked in the problem description. Contains three functions as below.
+  1. get_procedure_attributes
+  2. get_procedure_success
+  3. get_procedure_outcomes
+
+
