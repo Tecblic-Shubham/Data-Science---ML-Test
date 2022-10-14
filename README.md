@@ -1,8 +1,8 @@
 # Data Science ML Test
 
-## Dataset - Parent Survival Dataset
+## Dataset - Patient Survival Dataset
 
-### Download Dataset
+### you can download Dataset from below link
 ```bash
 https://drive.google.com/drive/folders/1QWdi2WNZbkoYBAw_H0SVy1csWR4TMqqi?usp=sharing
 ```
