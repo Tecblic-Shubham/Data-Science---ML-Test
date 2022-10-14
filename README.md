@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1Tic7uw-PeMOrCzchd1GIyp6OamXK7bHT?usp=sha
 ```
 
 ### Data Description
-In this dataset, there are various factors given, which are involved when a patient is hospitalized. On the basis of these factors, predict whether the patient will survive or not.
+In this dataset, there are various factors given, which are involved when a patient is hospitalized. On the basis of these factors, predicting whether the patient will survive or not.
 
 
 ### Installation
