@@ -6,7 +6,7 @@ import cms_procedures
 
 def predict_(procedure_id):
     # importing mode
-    clf = joblib.load("./Models/GradientBoostingClassifier()_accuracy_0.9244384676891764.pkl")    
+    clf = joblib.load("./Models/GradientBoosting_accuracy_0.92.pkl")    
     
     # getting data from library
     data_attributes = pd.DataFrame(cms_procedures.get_procedure_attributes(procedure_id))
