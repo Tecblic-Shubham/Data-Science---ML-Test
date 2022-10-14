@@ -1,6 +1,10 @@
 # Data Science ML Test
 
 ### Dataset - Patient Survival Dataset
+1. Download data sets and models.
+2. Prepare Folder structure as given in the repository.
+3. Run train.py file. (optional)
+4. Run predict.py file with required arguments.
 
 #### Download Dataset from below link
 ```bash
