@@ -3,7 +3,7 @@ import pandas as pd
 
 # Read CSV
 def get_data():
-    df = pd.read_csv("dataset.csv")
+    df = pd.read_csv("./dataset/dataset.csv")
     return df
 
 # Function to get attributes of the procedure
