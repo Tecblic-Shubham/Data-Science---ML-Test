@@ -1,17 +1,17 @@
 # Data Science ML Test
 
-## Dataset - Patient Survival Dataset
+### Dataset - Patient Survival Dataset
 
-### you can download Dataset from below link
+#### Download Dataset from below link
 ```bash
 https://drive.google.com/drive/folders/1QWdi2WNZbkoYBAw_H0SVy1csWR4TMqqi?usp=sharing
 ```
 
-## Data Description
+### Data Description
 In this dataset, there are various factors given, which are involved when a patient is hospitalized. On the basis of these factors, predict whether the patient will survive or not.
 
 
-## Installation
+### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
