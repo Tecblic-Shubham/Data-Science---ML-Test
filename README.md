@@ -28,10 +28,12 @@ The EDA part is as follows.
   ```bash
   data.shape #Shape will fetch the tuple of dataframe
   ```
----  
+---
+
   ```bash
     data.info() # information about the DataFrame
-    ```
+  ```
+    
 --- 
    4. Checking % of missing values
       4.1 The data set have ~3.7% missing values.
@@ -47,6 +49,7 @@ The EDA part is as follows.
 ```bash
 python train.py
 ```
+
 Train File consists Data Loading , Preporcessing and the model code.
 
 ### Models used
