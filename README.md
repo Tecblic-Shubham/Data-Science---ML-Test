@@ -6,7 +6,7 @@
 3. Run train.py file. (optional)
 4. Run predict.py file with required arguments.
 
-#### Download Dataset from below link
+#### Download Dataset from below link and replace it in dataset folder with sample_dataset.csv file
 ```bash
 https://drive.google.com/drive/folders/1Tic7uw-PeMOrCzchd1GIyp6OamXK7bHT?usp=sharing
 ```
@@ -77,6 +77,7 @@ Train File consists Data Loading , Preporcessing and the model code.
 ```bash
 python predict.py --p_id <givetheprocedureidformdatahere>
 ```` 
+We have used Gradient boosting for 
 
 ### Custom Library as per problem description
 ```bash
